@@ -53,3 +53,9 @@ The project involved creating a comprehensive banking chatbot capable of underst
 ‍
 ## Final Thoughts
 BankerBot represents a significant step forward in the integration of conversational AI with banking services. The use of Amazon Lex and AWS Lambda has enabled the creation of a responsive and intelligent chatbot that can greatly enhance the user experience. This project has been a valuable learning experience and has opened up numerous possibilities for future enhancements and applications.
+
+## Connect with Me
+
+- Author: Kanika Mathur
+- GitHub: [Kanika Mathur](https://github.com/KanikaGenesis)
+- LinkedIn: [Kanika Mathur](https://www.linkedin.com/in/kanika-mathur-083080121/)
